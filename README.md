@@ -60,14 +60,12 @@ A proposta simula uma loja voltada para quem curte a nostalgia dos games clássi
 
 Este projeto foi desenvolvido como exercício prático de **HTML**, buscando cumprir todos os requisitos do desafio dentro do limite de linhas proposto.
 
-**🎮 GameZone Retro — onde a nostalgia vira código.**
+**🎮 GameZone Retro**
 
 ---
 
 <div align="center">
 
 🕹️ 🎮 👾 💾 🕹️ 🎮 👾 💾
-
-**Feito com HTML, nostalgia e algumas boas lembranças dos pixels.**
 
 </div>
